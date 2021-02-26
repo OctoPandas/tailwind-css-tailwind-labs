@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-css-tailwind-labs",
+  "version": "1.0.0",
+  "description": "从 VS Code 创建文件的时候，可以不必创建中间目录，直接 New File - 'folder/filename' 即可直接自动创建中间目录。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.6",
+    "tailwindcss": "^2.0.3",
+    "vite": "^2.0.3"
+  }
+}
